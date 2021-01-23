@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TezKontrolProgrami", "TezKontrolProgrami\TezKontrolProgrami.csproj", "{A3A402DA-6699-476E-ACE0-CC81FB2E38BC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{DCBC82AC-DF3F-4960-B242-95BDAA23965A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A402DA-6699-476E-ACE0-CC81FB2E38BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A402DA-6699-476E-ACE0-CC81FB2E38BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A402DA-6699-476E-ACE0-CC81FB2E38BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A402DA-6699-476E-ACE0-CC81FB2E38BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBC82AC-DF3F-4960-B242-95BDAA23965A}.Debug|Any CPU.ActiveCfg = Debug
+		{DCBC82AC-DF3F-4960-B242-95BDAA23965A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1821974-F477-4B3D-B73E-29FF478485AA}
+	EndGlobalSection
+EndGlobal
