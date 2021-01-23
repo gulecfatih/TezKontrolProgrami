@@ -1,3 +1,3 @@
 # TezKontrolProgrami
 
-Debug dosyasında setup1.exe programın yükleme dosyasıdır.
+Debug dosyasında setup.exe programın yükleme dosyasıdır.
